@@ -1,0 +1,6 @@
+❯ cd /Users/jingyi/text-to-cad/models/wooden_ox && python src/wooden_ox.py
+zsh: command not found: python
+❯ cd /Users/jingyi/text-to-cad/models/wooden_ox && cadgen step snapshot STEP/wooden_ox.step tmp/walk.mp4 --animation walk --video '{"fps": 24}'
+zsh: command not found: cadgen
+
+    ~/text-to-cad/m/wooden_ox    main ⇣35 !2 ?3 ▓▒░
